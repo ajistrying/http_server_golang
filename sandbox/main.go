@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/ajistrying/http_server_golang/internal/database"
+	"github.com/ajistrying/http_server_golang/internal/"
 )
 
 func main() {
